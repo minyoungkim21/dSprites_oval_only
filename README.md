@@ -2,7 +2,7 @@
 
 ## 0. Setup (brief)
 - Collect only "oval" shape images (remove "square" and "heart")
-- The other 4 factors (rot, scale, x-pos, y-pos) the same as original
+- So there are 4 factors (rot, scale, x-pos, y-pos)
 
 
 ## 1. Vanilla-VAE (beta = 1.0)
