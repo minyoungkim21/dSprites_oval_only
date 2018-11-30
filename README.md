@@ -33,6 +33,9 @@
 ![kl](https://user-images.githubusercontent.com/44901665/49294468-09f7e680-f481-11e8-8cc8-c15de7bcccee.png)<br />
 ![metrics](https://user-images.githubusercontent.com/44901665/49294470-0b291380-f481-11e8-9a1a-c96ac8979b85.png)<br />
 
+#### KL for individual dims
+![factor_vae_kl_inds](https://user-images.githubusercontent.com/44901665/49304139-767edf80-f499-11e8-9e21-7cf87a459837.png)
+
 ### (Factor-VAE) Latent traversal
 
   4 examples and each is:
