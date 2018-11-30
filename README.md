@@ -1,4 +1,4 @@
-# Factor Disentanglement
+# Disentanglement Results (dSprites with "Oval" shape only)
 
 ## (Supervised) Regression between x (image) and z (5-dim true factors, each [-1,+1]-scaled/normalized)
 
