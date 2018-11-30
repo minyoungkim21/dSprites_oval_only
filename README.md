@@ -1,16 +1,16 @@
-# Disentanglement Results (dSprites with "Oval" shape only)
+# Results on dSprites with "Oval" shape only
 
-## (Supervised) Regression between x (image) and z (5-dim true factors, each [-1,+1]-scaled/normalized)
-
-
-### 1) Setup (brief)
-- The same encoder model as FactorVAE for x -> z regression
-- The same decoder model as FactorVAE for z -> x regression
+## Setup (brief)
+- Collect only "oval" shape images (remove "square" and "heart")
+- So, there are 4 factors (rot, scale, x-pos, y-pos)
 
 
-### 2) Latent traversal
+## Vanilla-VAE (beta = 1.0)
 
-4 examples
+### Losses and Metrics
+
+
+### Latent traversal
 
   [ x | z1 | z2 | z3 | z4 | z5 ]
 
@@ -20,7 +20,10 @@
 ![random_img](https://user-images.githubusercontent.com/44901665/48269797-70e82980-e406-11e8-8477-920e8caf136e.gif) <br />
 
 
-### 3) Losses and Metrics (At iter# = 108K)
+## Factor-VAE 
+
+## Relevance-Factor-VAE (aka Split-Factor-VAE)
+
 
 loss_z:  0.278 (\sum_j ||z_j - z*_j|, note: zj \in [-1,+1])  <br />
 loss_x: 15.478 (\sum_i CE(x_i; x*_i); note: dim(x) = 64*64 = 4096)
