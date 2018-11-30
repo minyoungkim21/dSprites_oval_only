@@ -23,7 +23,26 @@
 ![fixed3](https://user-images.githubusercontent.com/44901665/49293821-301c8700-f47f-11e8-8b3a-7c01c93510fa.gif)<br />
 ![random_img](https://user-images.githubusercontent.com/44901665/49293823-327ee100-f47f-11e8-9665-bc4babbf4be3.gif)<br />
 
+
+
 ## 2. Factor-VAE 
+
+### (Factor-VAE) Losses and Metrics
+
+![recon](https://user-images.githubusercontent.com/44901665/49294464-08c6b980-f481-11e8-8f80-1a11268ea13c.png)<br />
+![kl](https://user-images.githubusercontent.com/44901665/49294468-09f7e680-f481-11e8-8cc8-c15de7bcccee.png)<br />
+![metrics](https://user-images.githubusercontent.com/44901665/49294470-0b291380-f481-11e8-9a1a-c96ac8979b85.png)<br />
+
+### (Factor-VAE) Latent traversal
+
+  4 examples and each is:
+  [ x | z1 | z2 | z3 | ... | z10 ]
+  
+![fixed1](https://user-images.githubusercontent.com/44901665/49294480-10865e00-f481-11e8-9c59-5ea2c075ae77.gif)
+![fixed2](https://user-images.githubusercontent.com/44901665/49294484-12e8b800-f481-11e8-94b6-436704389c52.gif)
+![fixed3](https://user-images.githubusercontent.com/44901665/49294490-154b1200-f481-11e8-842b-17ebffd011e2.gif)
+![random_img](https://user-images.githubusercontent.com/44901665/49294497-17ad6c00-f481-11e8-9f61-bcab054b6c62.gif)
+
 
 
 
