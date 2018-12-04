@@ -103,9 +103,10 @@
   4 examples and each is:
   [ x | z1 | z2 | z3 | ... | z10 ]
   
-![fixed1](https://user-images.githubusercontent.com/44901665/49410918-e1981280-f734-11e8-8e49-45402ca5d204.gif)<br />
-![fixed2](https://user-images.githubusercontent.com/44901665/49410926-eceb3e00-f734-11e8-9edf-546c0b93cc31.gif)<br />
-![fixed3](https://user-images.githubusercontent.com/44901665/49410930-f1175b80-f734-11e8-88e2-83a7656c314f.gif)<br />
-![random_img0](https://user-images.githubusercontent.com/44901665/49410935-f5dc0f80-f734-11e8-818e-3b0f1e963f63.gif)<br />
+
+![fixed1](https://user-images.githubusercontent.com/44901665/49454958-447cbe80-f7b4-11e8-9bfc-18cb9c500ec3.gif)<br />
+![fixed2](https://user-images.githubusercontent.com/44901665/49454992-56f6f800-f7b4-11e8-8af0-3b7c06258f41.gif)<br />
+![fixed3](https://user-images.githubusercontent.com/44901665/49455000-5a8a7f00-f7b4-11e8-959e-ba24be400b5e.gif)<br />
+![random_img0](https://user-images.githubusercontent.com/44901665/49455007-5e1e0600-f7b4-11e8-8dbd-20c8d5a7b186.gif)<br />
 
 
