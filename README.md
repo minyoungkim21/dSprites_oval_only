@@ -91,7 +91,7 @@
 ![rvs](https://user-images.githubusercontent.com/44901665/49410631-903b5380-f733-11e8-8656-eb7d6926b0be.png)<br />
 ![rvh](https://user-images.githubusercontent.com/44901665/49410632-92051700-f733-11e8-86df-c004ed3c0b26.png)<br />
 
-#### Vector "r" during training
+#### Vector "r" over time (during training)
 
 
 #### KL for individual dims
