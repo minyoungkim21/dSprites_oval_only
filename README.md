@@ -52,9 +52,9 @@
 
 
 
-## 3. (Our) Relevance-VAE (aka "split model")
+## 3. RF-VAE Cheat <!--(Our) Relevance-VAE (aka "split model") -->
 
-### (Relevance-VAE) Losses and Metrics
+### (RF-VAE Cheat) Losses and Metrics
 
 ![recon](https://user-images.githubusercontent.com/44901665/49294133-16c80a80-f480-11e8-89c3-0cb387010d0c.png)<br />
 ![kl](https://user-images.githubusercontent.com/44901665/49294137-1760a100-f480-11e8-83e6-5dd8bf9af33e.png)<br />
@@ -63,7 +63,7 @@
 #### KL for individual dims
 ![relevance_vae_kl_inds](https://user-images.githubusercontent.com/44901665/49304005-34559e00-f499-11e8-9bc0-1fe3332f940f.png)
 
-### (Relevance-VAE) Latent traversal
+### (RF-VAE Cheat) Latent traversal
 
   4 examples and each is:
   [ x | z1 | z2 | z3 | ... | z10 ]
@@ -73,8 +73,32 @@
 ![fixed3](https://user-images.githubusercontent.com/44901665/49294163-29dada80-f480-11e8-845f-796abc588f32.gif)<br />
 ![random_img](https://user-images.githubusercontent.com/44901665/49294165-2ba49e00-f480-11e8-8c1c-6583e7033e32.gif)<br />
 
-[] ** when z_j goes from -6 to +6 (instead of [-3,+3]):
+<!-- ** when z_j goes from -6 to +6 (instead of [-3,+3]):
 ![fixed1](https://user-images.githubusercontent.com/44901665/49304496-7e8b4f00-f49a-11e8-859a-e909aaffc830.gif)
 ![fixed2](https://user-images.githubusercontent.com/44901665/49304498-82b76c80-f49a-11e8-95d0-f5c94d9bc8b3.gif)
 ![fixed3](https://user-images.githubusercontent.com/44901665/49304500-85b25d00-f49a-11e8-8cc3-bb99a5ff0857.gif)
 ![random_img](https://user-images.githubusercontent.com/44901665/49304503-88ad4d80-f49a-11e8-91af-776bfaafdcf4.gif)
+-->
+
+
+## 4. RF-VAE No-Cheat 
+
+### (RF-VAE No-Cheat) Losses and Metrics
+
+![recon](https://user-images.githubusercontent.com/44901665/49294133-16c80a80-f480-11e8-89c3-0cb387010d0c.png)<br />
+![kl](https://user-images.githubusercontent.com/44901665/49294137-1760a100-f480-11e8-83e6-5dd8bf9af33e.png)<br />
+![metrics](https://user-images.githubusercontent.com/44901665/49294138-192a6480-f480-11e8-8602-f33ccf5aa476.png)<br />
+
+#### KL for individual dims
+![relevance_vae_kl_inds](https://user-images.githubusercontent.com/44901665/49304005-34559e00-f499-11e8-9bc0-1fe3332f940f.png)
+
+### (RF-VAE No-Cheat) Latent traversal
+
+  4 examples and each is:
+  [ x | z1 | z2 | z3 | ... | z10 ]
+
+![fixed1](https://user-images.githubusercontent.com/44901665/49294150-25162680-f480-11e8-99ad-b4b1be79b005.gif)<br />
+![fixed2](https://user-images.githubusercontent.com/44901665/49294153-27788080-f480-11e8-9bc9-2a072e88a772.gif)<br />
+![fixed3](https://user-images.githubusercontent.com/44901665/49294163-29dada80-f480-11e8-845f-796abc588f32.gif)<br />
+![random_img](https://user-images.githubusercontent.com/44901665/49294165-2ba49e00-f480-11e8-8c1c-6583e7033e32.gif)<br />
+
