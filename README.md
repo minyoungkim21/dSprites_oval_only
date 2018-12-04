@@ -99,9 +99,10 @@
 
   4 examples and each is:
   [ x | z1 | z2 | z3 | ... | z10 ]
+  
+![fixed1](https://user-images.githubusercontent.com/44901665/49410918-e1981280-f734-11e8-8e49-45402ca5d204.gif)<br />
+![fixed2](https://user-images.githubusercontent.com/44901665/49410926-eceb3e00-f734-11e8-9edf-546c0b93cc31.gif)<br />
+![fixed3](https://user-images.githubusercontent.com/44901665/49410930-f1175b80-f734-11e8-88e2-83a7656c314f.gif)<br />
+![random_img0](https://user-images.githubusercontent.com/44901665/49410935-f5dc0f80-f734-11e8-818e-3b0f1e963f63.gif)<br />
 
-![fixed1](https://user-images.githubusercontent.com/44901665/49410782-62a2da00-f734-11e8-9e4c-8c6728167dea.gif)<br />
-![fixed2](https://user-images.githubusercontent.com/44901665/49410784-646c9d80-f734-11e8-8e27-239784e7799d.gif)<br />
-![fixed3](https://user-images.githubusercontent.com/44901665/49410791-66cef780-f734-11e8-9c69-437e2d4a8243.gif)<br />
-![random_img](https://user-images.githubusercontent.com/44901665/49410794-6b93ab80-f734-11e8-9309-26cdb9486cf7.gif)<br />
 
