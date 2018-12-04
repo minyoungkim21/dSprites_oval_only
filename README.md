@@ -73,7 +73,7 @@
 ![fixed3](https://user-images.githubusercontent.com/44901665/49294163-29dada80-f480-11e8-845f-796abc588f32.gif)<br />
 ![random_img](https://user-images.githubusercontent.com/44901665/49294165-2ba49e00-f480-11e8-8c1c-6583e7033e32.gif)<br />
 
-[//]: # ** when z_j goes from -6 to +6 (instead of [-3,+3]):
+[] ** when z_j goes from -6 to +6 (instead of [-3,+3]):
 ![fixed1](https://user-images.githubusercontent.com/44901665/49304496-7e8b4f00-f49a-11e8-859a-e909aaffc830.gif)
 ![fixed2](https://user-images.githubusercontent.com/44901665/49304498-82b76c80-f49a-11e8-95d0-f5c94d9bc8b3.gif)
 ![fixed3](https://user-images.githubusercontent.com/44901665/49304500-85b25d00-f49a-11e8-8cc3-bb99a5ff0857.gif)
