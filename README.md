@@ -85,20 +85,23 @@
 
 ### (RF-VAE No-Cheat) Losses and Metrics
 
-![recon](https://user-images.githubusercontent.com/44901665/49294133-16c80a80-f480-11e8-89c3-0cb387010d0c.png)<br />
-![kl](https://user-images.githubusercontent.com/44901665/49294137-1760a100-f480-11e8-83e6-5dd8bf9af33e.png)<br />
-![metrics](https://user-images.githubusercontent.com/44901665/49294138-192a6480-f480-11e8-8602-f33ccf5aa476.png)<br />
+![recon](https://user-images.githubusercontent.com/44901665/49410620-84e82800-f733-11e8-8b48-157473051c53.png)<br />
+![kl](https://user-images.githubusercontent.com/44901665/49410621-887baf00-f733-11e8-8ed5-55e88b2dcdca.png)<br />
+![metrics](https://user-images.githubusercontent.com/44901665/49410623-89acdc00-f733-11e8-9d36-78c44d6fd75b.png)<br />
+![rvs](https://user-images.githubusercontent.com/44901665/49410631-903b5380-f733-11e8-8656-eb7d6926b0be.png)<br />
+![rvh](https://user-images.githubusercontent.com/44901665/49410632-92051700-f733-11e8-86df-c004ed3c0b26.png)<br />
 
 #### KL for individual dims
-![relevance_vae_kl_inds](https://user-images.githubusercontent.com/44901665/49304005-34559e00-f499-11e8-9bc0-1fe3332f940f.png)
+![rfvae_learn_kl_inds](https://user-images.githubusercontent.com/44901665/49410666-ba8d1100-f733-11e8-882b-c3597a4ba55b.png)
+
 
 ### (RF-VAE No-Cheat) Latent traversal
 
   4 examples and each is:
   [ x | z1 | z2 | z3 | ... | z10 ]
 
-![fixed1](https://user-images.githubusercontent.com/44901665/49294150-25162680-f480-11e8-99ad-b4b1be79b005.gif)<br />
-![fixed2](https://user-images.githubusercontent.com/44901665/49294153-27788080-f480-11e8-9bc9-2a072e88a772.gif)<br />
-![fixed3](https://user-images.githubusercontent.com/44901665/49294163-29dada80-f480-11e8-845f-796abc588f32.gif)<br />
-![random_img](https://user-images.githubusercontent.com/44901665/49294165-2ba49e00-f480-11e8-8c1c-6583e7033e32.gif)<br />
+![fixed1](https://user-images.githubusercontent.com/44901665/49410782-62a2da00-f734-11e8-9e4c-8c6728167dea.gif)<br />
+![fixed2](https://user-images.githubusercontent.com/44901665/49410784-646c9d80-f734-11e8-8e27-239784e7799d.gif)<br />
+![fixed3](https://user-images.githubusercontent.com/44901665/49410791-66cef780-f734-11e8-9c69-437e2d4a8243.gif)<br />
+![random_img](https://user-images.githubusercontent.com/44901665/49410794-6b93ab80-f734-11e8-9309-26cdb9486cf7.gif)<br />
 
