@@ -110,3 +110,18 @@
 ![random_img0](https://user-images.githubusercontent.com/44901665/49455007-5e1e0600-f7b4-11e8-8dbd-20c8d5a7b186.gif)<br />
 
 
+## 5. BF-VAE 
+
+### (BF-VAE) Losses and Metrics
+
+
+### (BF-VAE) Latent traversal
+
+  4 examples and each is:
+  [ x | z1 | z2 | z3 | ... | z10 ]
+  
+
+![fixed1](https://user-images.githubusercontent.com/44901665/49454958-447cbe80-f7b4-11e8-9bfc-18cb9c500ec3.gif)<br />
+![fixed2](https://user-images.githubusercontent.com/44901665/49454992-56f6f800-f7b4-11e8-8af0-3b7c06258f41.gif)<br />
+![fixed3](https://user-images.githubusercontent.com/44901665/49455000-5a8a7f00-f7b4-11e8-959e-ba24be400b5e.gif)<br />
+![random_img0](https://user-images.githubusercontent.com/44901665/49455007-5e1e0600-f7b4-11e8-8dbd-20c8d5a7b186.gif)<br />
