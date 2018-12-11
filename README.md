@@ -114,14 +114,17 @@
 
 ### (BF-VAE) Losses and Metrics
 
+![recon](https://user-images.githubusercontent.com/44901665/49827433-4b2ca800-fd57-11e8-9ec9-fda433e86678.png)<br />
+![kl](https://user-images.githubusercontent.com/44901665/49827438-4e279880-fd57-11e8-8cdf-83d1af67e5e7.png)<br />
+![metrics](https://user-images.githubusercontent.com/44901665/49827440-5089f280-fd57-11e8-96d8-3ac19c70e487.png)<br />
+![pv_reg](https://user-images.githubusercontent.com/44901665/49827444-51bb1f80-fd57-11e8-9f64-7b157deb9560.png)<br />
 
 ### (BF-VAE) Latent traversal
 
   4 examples and each is:
   [ x | z1 | z2 | z3 | ... | z10 ]
   
-
-![fixed1](https://user-images.githubusercontent.com/44901665/49454958-447cbe80-f7b4-11e8-9bfc-18cb9c500ec3.gif)<br />
-![fixed2](https://user-images.githubusercontent.com/44901665/49454992-56f6f800-f7b4-11e8-8af0-3b7c06258f41.gif)<br />
-![fixed3](https://user-images.githubusercontent.com/44901665/49455000-5a8a7f00-f7b4-11e8-959e-ba24be400b5e.gif)<br />
-![random_img0](https://user-images.githubusercontent.com/44901665/49455007-5e1e0600-f7b4-11e8-8dbd-20c8d5a7b186.gif)<br />
+![fixed1](https://user-images.githubusercontent.com/44901665/49827492-6f888480-fd57-11e8-8b20-d8ebe3b9038d.gif)<br />
+![fixed2](https://user-images.githubusercontent.com/44901665/49827499-731c0b80-fd57-11e8-9288-ced6a0765103.gif)<br />
+![fixed3](https://user-images.githubusercontent.com/44901665/49827504-76af9280-fd57-11e8-9da5-ef5e0507d5f3.gif)<br />
+![random_img](https://user-images.githubusercontent.com/44901665/49827510-79aa8300-fd57-11e8-8537-9171871de882.gif)<br />
