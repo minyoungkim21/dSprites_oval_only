@@ -119,8 +119,8 @@
 ![metrics](https://user-images.githubusercontent.com/44901665/49827440-5089f280-fd57-11e8-96d8-3ac19c70e487.png)<br />
 ![pv_reg](https://user-images.githubusercontent.com/44901665/49827444-51bb1f80-fd57-11e8-9f64-7b157deb9560.png)<br />
 
-#### Vector "r" over time (during training)
-![anim_rvec](https://user-images.githubusercontent.com/44901665/49452196-b3efaf80-f7ae-11e8-9339-e0ec8713cd35.gif)
+#### Prior Variances "pv" over time (during training)
+![anim_pv](https://user-images.githubusercontent.com/44901665/49900541-d9bf2900-fe2c-11e8-992c-b132cf3903be.gif)
 
 #### KL for individual dims
 ![bfvae_kl_inds](https://user-images.githubusercontent.com/44901665/49899250-2e60a500-fe29-11e8-93e2-3234914da38a.png)
